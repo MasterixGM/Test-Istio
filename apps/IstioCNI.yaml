@@ -25,7 +25,7 @@ spec:
       prune: true
       selfHeal: true
 ---      
-apiVersion: sailoperator.io/v1alpha1
+apiVersion: argoproj.io/v1alpha1
 kind: IstioCNI
 metadata:
   name: default
