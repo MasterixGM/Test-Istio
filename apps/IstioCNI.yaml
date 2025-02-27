@@ -15,7 +15,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://newrepo.com/new-org/new-repo.git
+    repoURL: https://github.com/MasterixGM/Test-Istio
     path: apps
     targetRevision: HEAD
   destination:
